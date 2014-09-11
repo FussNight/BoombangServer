@@ -1,0 +1,7 @@
+c:\users\fuss\documents\visual studio 2013\Projects\Boombang\Boombang\bin\Debug\Boombang.exe.config
+c:\users\fuss\documents\visual studio 2013\Projects\Boombang\Boombang\obj\Debug\Boombang.csprojResolveAssemblyReference.cache
+c:\users\fuss\documents\visual studio 2013\Projects\Boombang\Boombang\bin\Debug\Boombang.exe
+c:\users\fuss\documents\visual studio 2013\Projects\Boombang\Boombang\bin\Debug\Boombang.pdb
+c:\users\fuss\documents\visual studio 2013\Projects\Boombang\Boombang\obj\Debug\Boombang.exe
+c:\users\fuss\documents\visual studio 2013\Projects\Boombang\Boombang\obj\Debug\Boombang.pdb
+C:\Users\Fuss\documents\visual studio 2013\Projects\Boombang\Boombang\bin\Debug\MySql.Data.dll
